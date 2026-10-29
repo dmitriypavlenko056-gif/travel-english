@@ -1,6 +1,6 @@
 // Service worker: сохраняет все файлы в телефоне, чтобы приложение работало без интернета.
 // При изменении слов или кода поднимите номер версии — телефон скачает свежие файлы.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = `travel-english-${VERSION}`;
 const FILES = [
   './',
