@@ -1,0 +1,15 @@
+{
+  "name": "Travel English",
+  "short_name": "Travel English",
+  "description": "Английский для поездок: слова и фразы с озвучкой, работает без интернета",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#2f80ed",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
